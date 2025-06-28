@@ -12,7 +12,7 @@ It plans, takes action, adapts to changes, and seeks help only when necessary.
 
 ### Key Characteristics
 
-![alt text](images/image_01_1.png)
+![alt text](Images/image_01_1.png)
 
 ## Autonomy
 
@@ -132,7 +132,7 @@ Context awareness is the agent’s ability to **understand**, **retain**, and **
 
 ## Components of Agentic AI
 
-![alt text](images/image_01_2.png)
+![alt text](Images/image_01_2.png)
 
 ## 🧠 Brain (LLM)
 
