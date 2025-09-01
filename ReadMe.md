@@ -14,8 +14,9 @@ This repository contains structured and illustrated notes on **Agentic AI System
 
 ## Notes Link
 
-- Lession 01 (LLMs): *[Lession 01 link](https://github.com/AtriSaxena/LangGraph_Learning/blob/main/Lession_01.md)*
-
+- Lession 01 (Agentic AI using LangGraph): *[Lession 01 link](https://github.com/AtriSaxena/LangGraph_Learning/blob/main/Lession_01.md)*
+- Lession 02 (Langchain Vs LangGraph): *[Lession 02 link](https://github.com/AtriSaxena/LangGraph_Learning/blob/main/Lession_02.md)*
+- Lession 03 (LangGraph Basics): *[Lession 03 link](https://github.com/AtriSaxena/LangGraph_Learning/blob/main/Lession_03.md)*
 
 ## Written by: 
 - *[Atri Saxena - LinkedIn](https://www.linkedin.com/in/atrisaxena/)*
